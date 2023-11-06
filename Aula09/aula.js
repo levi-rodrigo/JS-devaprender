@@ -7,7 +7,7 @@
 // ----------------------------
 // Operadores Aritmeticos
 
-let salario = 100;
+// let salario = 100;
 
 // + == adiçao
 // - == subtraçao
@@ -16,11 +16,25 @@ let salario = 100;
 // ** == exponecial 
 
 
-console.log(salario + salario);
-console.log(salario - salario);
-console.log(salario * salario);
-console.log(salario / salario);
-console.log(salario ** salario);
+// console.log(salario + salario);
+// console.log(salario - salario);
+// console.log(salario * salario);
+// console.log(salario / salario);
+// console.log(salario ** salario);
     
+//------------------------------------------
 
 
+// Operadores de ecremento e decremento
+
+// ++ == ecremento
+// -- == decremento
+
+// let idade = 18;
+
+// console.log(++idade);
+
+
+// let idade = 18
+
+// console.log(--idade);
