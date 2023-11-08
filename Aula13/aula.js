@@ -19,7 +19,7 @@
 // Retorna TRUE se um dos operandos forem true
 
  let maiorDeIdade = false;
- let possuiCarteira = false;
+ let possuiCarteira = true;
  let podeAplicar = maiorDeIdade || possuiCarteira;
 
  console.log('pode aplicar: ', podeAplicar);
